@@ -1,6 +1,5 @@
-pandas
-sqlalchemy
-psycopg2-binary
-kaggle
-apache-airflow
-python-dotenv
+pandas==2.2.3
+prefect==3.4.1
+kaggle==1.7.4.2
+slack_sdk==3.35.0
+streamlit==1.45.0
